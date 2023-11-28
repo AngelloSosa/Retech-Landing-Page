@@ -1,5 +1,7 @@
 # RETECH1
 
+Proyecto academico realizado en el ciclo 2023-02 de la Universidad Peruana de Ciencias Aplicadas
+
 Este repositorio contendrá los recursos necesarios para la elaboración del landing page de nuestro proyecto llamado: RETECH.
 
 RETECH es un proyecto que busca incentivar a los peruanos a que generen hábitos de reciclaje de dispositivos electrónicos y seguir promoviendo la conciencia ambiental. Buscamos transformar los antiguos dispositivos en nuevos artefactos para poder aprovechar los recursos tecnológicos.
